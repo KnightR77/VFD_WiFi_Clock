@@ -1,3 +1,7 @@
 .vs
 .vscode
 __vm
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+CppProperties.json
